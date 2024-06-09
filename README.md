@@ -1,0 +1,2 @@
+# sestanima
+python-voice recognition
